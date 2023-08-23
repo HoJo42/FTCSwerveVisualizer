@@ -1,0 +1,5 @@
+Swerve Sticks
+leftStickY	Y value of left stick	3	SLIDER	y	0	1.0	0.0
+leftStickX	X value of left stick	3	SLIDER	x	0	1.0	0.0
+rightStickY	Y value of right stick	3	SLIDER	ry	0	1.0	0.0
+rightStickX	X value of right stick	3	SLIDER	rx	0	1.0	0.0
